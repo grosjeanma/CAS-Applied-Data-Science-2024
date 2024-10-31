@@ -2,7 +2,7 @@
 **University of Bern**
 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![ECTS](https://img.shields.io/badge/ECTS-4-blue)
+![ECTS](https://img.shields.io/badge/ECTS-2-blue)
 ![Module](https://img.shields.io/badge/Module-2-lightgrey)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
