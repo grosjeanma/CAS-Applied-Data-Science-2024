@@ -61,16 +61,8 @@ The `Report2/` directory contains the **Data Science Project** for Module 2. Thi
 
 ---
 
-## 📝 Report Preview
-
-[![Project Report Preview](path/to/preview-image.png)](Report2/M2-Presentation.ipynb)
-
-For the full report, including detailed analysis and insights, click the image above or [download the report here](Report2/M2-Presentation.ipynb).
-
----
-
 ## 📝 License
-This project is licensed under the MIT License. See the [LICENSE](../LICENSE) file for details.
+This project is licensed under the MIT License. 
 
 ---
 

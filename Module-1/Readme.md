@@ -64,16 +64,8 @@ The `Report1/` directory contains the **Data Science Project** for Module 1, whi
 
 ---
 
-## 📝 Report Preview
-
-[![Project Report Preview](path/to/preview-image.png)](CAS-ADS-M1-Project-Marcel_Grosjean_Signe.pdf)
-
-For the full report, including detailed analysis and insights, click the image above or [download the report here](CAS-ADS-M1-Project-Marcel_Grosjean_Signe.pdf).
-
----
-
 ## 📝 License
-This project is licensed under the MIT License. See the [LICENSE](../LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ---
 

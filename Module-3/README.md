@@ -62,16 +62,8 @@ The `M3_Project/` folder contains the **Data Science Project** for Module 3. Thi
 
 ---
 
-## 📝 Report Preview
-
-[![Project Report Preview](path/to/preview-image.png)](M3_Project/M3_Final_Project.ipynb)
-
-For the full project and detailed analysis, click the image above or [view the report here](M3_Project/M3_Final_Project.ipynb).
-
----
-
 ## 📝 License
-This project is licensed under the MIT License. See the [LICENSE](../LICENSE) file for details.
+This project is licensed under the MIT License. 
 
 ---
 
